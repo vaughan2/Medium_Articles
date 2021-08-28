@@ -1,6 +1,6 @@
 # Medium Articles 
  [Medium Profile](https://medium.com/@vaughan932)
- The articles in this repo are based on a branch per article.
+ The articles which require code are located as branches in this repo
 
 
  //TODO write more in here.
