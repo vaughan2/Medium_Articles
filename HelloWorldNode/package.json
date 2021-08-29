@@ -4,9 +4,9 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-      "start": "node server.js",
+      "start": "node index.js",
       "docker-build" : "docker build -t medium/nodejs-docker ../.",
-      "docker-run": "docker run -d -p 8080:8080 medium/nodejs-docker ",
+      "docker-run": "docker run -d -p 8080:3000 medium/nodejs-docker ",
       "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": "",
